@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Statistic</id>
+    <version>1.0.0</version>
+    <authors>Statistic</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="CsvHelper" version="19.0.0" exclude="Build,Analyzers" />
+        <dependency id="EPPlus" version="5.5.1" exclude="Build,Analyzers" />
+        <dependency id="System.Collections" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Text.Encoding.CodePages" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\leshiy\source\repos\Statistic\Statistic\bin\Release\netcoreapp3.1\Statistic.runtimeconfig.json" target="lib\netcoreapp3.1\Statistic.runtimeconfig.json" />
+    <file src="C:\Users\leshiy\source\repos\Statistic\Statistic\bin\Release\netcoreapp3.1\Statistic.dll" target="lib\netcoreapp3.1\Statistic.dll" />
+  </files>
+</package>
