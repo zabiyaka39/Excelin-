@@ -1,0 +1,2 @@
+C:\Users\leshiy\source\repos\Statistic\Statistic\bin\Release\netcoreapp3.1\publish\Statistic.pdb
+C:\Users\leshiy\source\repos\Statistic\Statistic\bin\Release\netcoreapp3.1\publish\Statistic.exe
